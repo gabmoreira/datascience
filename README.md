@@ -11,5 +11,8 @@ Explains and illustrates what crossEntropy is using an example taken from an MIT
 ## medicalNotebook.ipynb
 Application of machine learning algorithms to medical data with the goal of studying the effects certain therapies have on disease progression.
 
+## AirFrance_hackathon.ipynb
+Engine data analysis.
+
 ## Author
 * Gabriel Moreira
