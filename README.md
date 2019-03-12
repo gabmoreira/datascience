@@ -14,5 +14,8 @@ Application of machine learning algorithms to medical data with the goal of stud
 ## airfrance_hackathon.ipynb
 AirFrance engine data analysis using a RNN-LSTM. The data is not provided (yet). The model needs to be updated to the most recent one: CNN-LSTM. I'll do this ASAP.
 
+## monte_carlo.ipynb
+Comprehensive guide to Monte-Carlo simulation with mathematical proofs and python code (French version).
+
 ## Author
 * Gabriel Moreira
